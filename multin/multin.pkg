@@ -1,4 +1,12 @@
-D 'DEA': Data envelopment analysis
+D 'multin': Grouped conditional logit regression Use multin With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F dirmul.ado
+F dirmul.hlp
+F dirmul1_ll.ado
+F dirmul2_ll.ado
+F groupdata.ado
+F groupdata.hlp
+F multin.ado
+F multin.hlp
+F multin2_ll.ado
+F multin_ll.ado
